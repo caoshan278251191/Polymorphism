@@ -1,0 +1,16 @@
+
+*.d
+
+*.inc
+
+dist/Debug/GNU-MacOSX/polymorphism
+
+Makefile
+
+*.xml
+
+*.mk
+
+*.bash
+
+*.properties
